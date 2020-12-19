@@ -1,8 +1,8 @@
 name = "Moon Dial as Watersource"
 author = "krylincy"
-version = "1.1"
+version = "1.2"
 description = [[
-Fill your watercan at the moondial.
+Use the Moon Dial as a new Watersource to fill your Watering Can.
 ]]
 
 api_version = 10
